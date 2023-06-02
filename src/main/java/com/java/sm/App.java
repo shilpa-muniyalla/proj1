@@ -1,10 +1,10 @@
-package com.durga;
+package com.java.sm;
 
 /**
  * Hello world!
  *
  */
-public class sample.java
+public class App 
 {
     public static void main( String[] args )
     {
